@@ -5,7 +5,7 @@ export interface ToolbarProps {
     /**
      * Can be a `ToolbarGroup` to render a group of related items.
      */
-    children?: number | string | React.ReactElement<any> | Array<any>,
+    
     /**
      * Useful to extend the style applied to components.
      */

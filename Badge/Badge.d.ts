@@ -18,7 +18,7 @@ export interface BadgeProps {
   /**
    * The badge will be added relative to this node.
    */
-  children: number | string | React.ReactElement<any> | Array<any>,
+  
   /**
    * Useful to extend the style applied to components.
    */

@@ -5,7 +5,7 @@ export type HiddenProps = {
   /**
    * The content of the component.
    */
-  children?: React.ReactElement<any>,
+  
   /**
    * @ignore
    */

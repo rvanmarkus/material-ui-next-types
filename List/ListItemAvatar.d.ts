@@ -6,7 +6,7 @@ export interface ListItemAvatarProps  {
   /**
    * The content of the component, normally `Avatar`.
    */
-  children: React.ReactElement<any>,
+  
   /**
    * Useful to extend the style applied to components.
    */

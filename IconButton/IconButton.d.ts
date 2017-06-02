@@ -14,7 +14,7 @@ interface IconButtonProps  {
    * The icon element.
    * If a string is provided, it will be used as an icon font ligature.
    */
-  children?: number | string | React.ReactElement<any> | Array<any>,
+  
   /**
    * Useful to extend the style applied to components.
    */

@@ -7,7 +7,7 @@ export interface ListItemIconProps {
    * The content of the component, normally `Icon`, `SvgIcon`,
    * or a `material-ui-icons` SVG icon component.
    */
-  children: React.ReactElement<any>;
+  
   /**
    * Useful to extend the style applied to components.
    */

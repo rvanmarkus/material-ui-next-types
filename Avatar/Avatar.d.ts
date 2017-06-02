@@ -15,7 +15,7 @@ export interface AvatarProps {
    *
    * This can be an element, or just a string.
    */
-  children?: number | string | React.ReactChild | Array<any>,
+  
   /**
    * @ignore
    * The className of the child element.

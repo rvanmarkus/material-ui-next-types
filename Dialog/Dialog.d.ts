@@ -6,7 +6,7 @@ interface DialogProps {
   /**
    * Dialog children, usually the included sub-components.
    */
-  children?: React.ReactElement<any>,
+  
   /**
    * Useful to extend the style applied to components.
    */

@@ -6,7 +6,7 @@ export interface TableRowProps {
     /**
      * Should be valid `<tr>` children such as `TableCell`.
      */
-    children?: number | string | React.ReactElement<any> | Array<any>,
+    
     /**
      * Useful to extend the style applied to components.
      */

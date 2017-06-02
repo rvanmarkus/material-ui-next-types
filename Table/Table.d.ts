@@ -6,7 +6,7 @@ export interface TableProps {
     /**
      * The content of the table, normally `TableHeader` and `TableBody`.
      */
-    children?: number | string | React.ReactElement<any> | Array<any>,
+    
     /**
      * Useful to extend the style applied to components.
      */

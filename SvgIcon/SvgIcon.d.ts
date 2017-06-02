@@ -6,7 +6,7 @@ export interface SvgIconProps {
     /**
      * Elements passed into the SVG Icon.
      */
-    children?: number | string | React.ReactElement<any> | Array<any>,
+    
     /**
      * Useful to extend the style applied to components.
      */

@@ -6,7 +6,7 @@ interface MenuItemProps {
     /**
      * Menu item contents.
      */
-    children?: number | string | React.ReactElement<any> | Array<any>,
+    
     /**
      * Useful to extend the style applied to components.
      */

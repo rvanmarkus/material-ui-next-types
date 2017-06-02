@@ -3,7 +3,7 @@ import * as React from 'React';
 export const styleSheet: ThemeReactorStyleSheet;
 
 interface MuiThemeProps {
-  children: React.ReactElement<any>,
+  
   styleManager?: any,
   theme?: any,
 }

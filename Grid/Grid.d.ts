@@ -7,7 +7,7 @@ export interface GridProps {
   /**
    * The content of the component.
    */
-  children?: React.ReactElement<any>;
+  
   /**
    * Useful to extend the style applied to components.
    */
