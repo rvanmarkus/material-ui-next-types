@@ -6,7 +6,7 @@ declare class Styles extends React.Component<{ classes?: any, innerRef: Function
 
 declare const withStyles:  
      (stylesheet: ThemeReactorStyleSheet) => 
-     (baseComponenet: React.Component<any, any>) => 
-     Styles;
+     <T>(baseComponenet: T) => 
+     T;
 
 export default withStyles;
