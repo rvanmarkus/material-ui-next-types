@@ -75,6 +75,37 @@ export interface TextFieldProps {
      * The value of the `Input` element, required for a controlled component.
      */
     value?: string | number,
+    /**
+      * @ignore
+      */
+    onBlur?: Function,
+    /**
+     * @ignore
+     */
+    onChange?: Function,
+    /**
+     * @ignore
+     */
+    onClean?: Function,
+    /**
+     * @ignore
+     */
+    onDirty?: Function,
+    /**
+     * @ignore
+     */
+    onFocus?: Function,
+    /**
+     * @ignore
+     */
+    onKeyDown?: Function,
+    /**
+     * @ignore
+     */
+    onKeyUp?: Function,
+    /**
+     * @ignore
+     */
 }
 
 export default function TextField(props: TextFieldProps): JSX.Element;
