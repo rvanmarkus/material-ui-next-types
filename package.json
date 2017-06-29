@@ -1,0 +1,14 @@
+{
+  "name": "material-ui-next-types",
+  "version": "1.0.0",
+  "description": "Typing definitions for material-ui@next.",
+  "main": "index.d.ts",
+  "author": "Navrin Thomas",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jss": "^0.6.27",
+    "@types/jss-theme-reactor": "Navrin/types-jss-theme-reactor",
+    "@types/react": "^15.0.25",
+    "jss-theme-reactor": "^0.11.1"
+  }
+}
