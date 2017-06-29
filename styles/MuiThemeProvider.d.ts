@@ -3,9 +3,9 @@ import * as React from 'react';
 export const styleSheet: ThemeReactorStyleSheet;
 
 interface MuiThemeProps {
-  
-  styleManager?: any,
-  theme?: any,
+    children: JSX.Element | any | any[];
+    styleManager?: any,
+    theme?: any,
 }
 
 
