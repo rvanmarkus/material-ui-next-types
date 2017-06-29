@@ -1,5 +1,5 @@
 import { ThemeReactorStyleSheet } from '../common';
-import * as React from 'React';
+import * as React from 'react';
 export const styleSheet: ThemeReactorStyleSheet;
 
 export interface InputProps {

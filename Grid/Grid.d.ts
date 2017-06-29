@@ -1,5 +1,5 @@
 import { ThemeReactorStyleSheet } from '../common';
-import { HiddenProps } from '../hidden/types';
+import { HiddenProps } from '../Hidden/types';
 export const styleSheet: ThemeReactorStyleSheet;
 type GridSizes = boolean | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12;
 
