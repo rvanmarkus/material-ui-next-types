@@ -42,4 +42,4 @@ export interface ListItemProps {
   divider?: boolean,
 }
 
-export default class ListItem extends React.Component<ListItemProps, void> {} 
+export default class ListItem extends React.Component<ListItemProps, {}> {} 
