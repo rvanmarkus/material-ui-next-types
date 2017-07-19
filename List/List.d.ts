@@ -40,4 +40,4 @@ export interface ListProps {
   subheader?: number | string | React.ReactElement<any> | Array<any>,
 }
 
-export default class List extends React.Component<ListProps, void> {}
+export default class List extends React.Component<ListProps, any> {}
